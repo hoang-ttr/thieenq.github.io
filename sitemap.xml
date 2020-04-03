@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://thieenq.github.io/blog.html</loc>
+    <lastmod>2020-04-03T14:58:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thieenq.github.io/blog/loremipsum.html</loc>
+    <lastmod>2020-04-03T14:58:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thieenq.github.io/</loc>
+    <lastmod>2020-04-03T14:58:54+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thieenq.github.io/categories.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://thieenq.github.io/series.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://thieenq.github.io/tags.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://thieenq.github.io/thieenq.html</loc>
+  </url>
+  
+</urlset>
