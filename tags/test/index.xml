@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The craftsmanship of life</title>
-    <link>https://thieenq.github.io/</link>
-    <description>Recent content on The craftsmanship of life</description>
+    <title>test on The craftsmanship of life</title>
+    <link>https://thieenq.github.io/tags/test.html</link>
+    <description>Recent content in test on The craftsmanship of life</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 03 Apr 2020 14:58:54 +0700</lastBuildDate>
     
-	<atom:link href="https://thieenq.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thieenq.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,17 +17,6 @@
       
       <guid>https://thieenq.github.io/blog/loremipsum.html</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget egestas nunc. Suspendisse varius lectus eu nunc interdum, eleifend convallis diam suscipit. Nulla auctor a augue ut dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus molestie sapien nec ante mollis commodo. Sed et lorem in lorem commodo convallis. Duis facilisis enim mauris, in ultricies lectus consectetur sollicitudin. Aliquam finibus nisl at odio imperdiet, laoreet ullamcorper ligula rutrum.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://thieenq.github.io/about.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thieenq.github.io/about.html</guid>
-      <description>I mostly write about: traveling, code, personal experiences, etc.
-I&amp;rsquo;ve been doing lots of things in my life, this is a place where I present what I think would resonate with you guys the most.
-Cheers ;)</description>
     </item>
     
   </channel>
