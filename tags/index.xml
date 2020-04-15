@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on The craftsmanship of life</title>
+    <title>Tags on Backlog Overload</title>
     <link>https://thieenq.github.io/tags.html</link>
-    <description>Recent content in Tags on The craftsmanship of life</description>
+    <description>Recent content in Tags on Backlog Overload</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Apr 2020 14:58:54 +0700</lastBuildDate>
+    <copyright>&amp;copy; 2020 Hoang Tran</copyright>
     
 	<atom:link href="https://thieenq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>test</title>
-      <link>https://thieenq.github.io/tags/test.html</link>
-      <pubDate>Fri, 03 Apr 2020 14:58:54 +0700</pubDate>
-      
-      <guid>https://thieenq.github.io/tags/test.html</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

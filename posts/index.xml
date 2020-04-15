@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Backlog Overload</title>
-    <link>https://thieenq.github.io/</link>
-    <description>Recent content on Backlog Overload</description>
+    <title>Posts on Backlog Overload</title>
+    <link>https://thieenq.github.io/posts.html</link>
+    <description>Recent content in Posts on Backlog Overload</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2020 Hoang Tran</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 18:37:40 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 18:42:15 +0700</lastBuildDate>
     
-	<atom:link href="https://thieenq.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thieenq.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>https://thieenq.github.io/posts/lorem-ipsum.html</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://thieenq.github.io/about.html</link>
-      <pubDate>Wed, 15 Apr 2020 18:37:40 +0700</pubDate>
-      
-      <guid>https://thieenq.github.io/about.html</guid>
-      <description>I mostly write about: traveling, code, personal experiences, etc.
-I&amp;rsquo;ve been doing lots of things in my life, this is a place where I present what I think would resonate with you guys the most.
-Cheers ;)</description>
     </item>
     
   </channel>
