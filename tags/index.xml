@@ -5,10 +5,6 @@
     <link>https://thieenq.github.io/tags.html</link>
     <description>Recent content in Tags on Backlog Overload</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2020 Hoang Tran</copyright>
-    
-	<atom:link href="https://thieenq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2020 Hoang Tran</copyright><atom:link href="https://thieenq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
