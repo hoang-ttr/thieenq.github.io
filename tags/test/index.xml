@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Backlog Overload</title>
-    <link>https://thieenq.github.io/posts.html</link>
-    <description>Recent content in Posts on Backlog Overload</description>
+    <title>test on Backlog Overload</title>
+    <link>https://thieenq.github.io/tags/test.html</link>
+    <description>Recent content in test on Backlog Overload</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2020 Hoang Tran</copyright>
-    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thieenq.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thieenq.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lorem ipsum</title>
       <link>https://thieenq.github.io/posts/lorem-ipsum.html</link>
