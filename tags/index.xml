@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Backlog Overload</title>
-    <link>https://thieenq.github.io/tags.html</link>
-    <description>Recent content in Tags on Backlog Overload</description>
+    <title>Tags on </title>
+    <link>https://raditian-hugo.radity.com/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2020 Hoang Tran</copyright>
-    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thieenq.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://raditian-hugo.radity.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pilot</title>
-      <link>https://thieenq.github.io/tags/pilot.html</link>
+      <link>https://raditian-hugo.radity.com/tags/pilot/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thieenq.github.io/tags/pilot.html</guid>
+      <guid>https://raditian-hugo.radity.com/tags/pilot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://thieenq.github.io/tags/test.html</link>
+      <link>https://raditian-hugo.radity.com/tags/test/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thieenq.github.io/tags/test.html</guid>
+      <guid>https://raditian-hugo.radity.com/tags/test/</guid>
       <description></description>
     </item>
     

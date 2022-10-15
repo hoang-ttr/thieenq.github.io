@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Backlog Overload</title>
-    <link>https://thieenq.github.io/posts.html</link>
-    <description>Recent content in Posts on Backlog Overload</description>
+    <title>Posts on </title>
+    <link>https://raditian-hugo.radity.com/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2020 Hoang Tran</copyright>
-    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thieenq.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 11 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://raditian-hugo.radity.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lorem ipsum</title>
-      <link>https://thieenq.github.io/posts/lorem-ipsum.html</link>
+      <link>https://raditian-hugo.radity.com/posts/lorem-ipsum/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://thieenq.github.io/posts/lorem-ipsum.html</guid>
+      <guid>https://raditian-hugo.radity.com/posts/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     

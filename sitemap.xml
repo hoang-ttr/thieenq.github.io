@@ -2,27 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thieenq.github.io/</loc>
+    <loc>https://raditian-hugo.radity.com/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thieenq.github.io/posts/lorem-ipsum.html</loc>
+    <loc>https://raditian-hugo.radity.com/posts/lorem-ipsum/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thieenq.github.io/tags/pilot.html</loc>
+    <loc>https://raditian-hugo.radity.com/tags/pilot/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thieenq.github.io/posts.html</loc>
+    <loc>https://raditian-hugo.radity.com/posts/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thieenq.github.io/tags.html</loc>
+    <loc>https://raditian-hugo.radity.com/tags/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thieenq.github.io/tags/test.html</loc>
+    <loc>https://raditian-hugo.radity.com/tags/test/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thieenq.github.io/about.html</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thieenq.github.io/categories.html</loc>
+    <loc>https://raditian-hugo.radity.com/categories/</loc>
   </url>
 </urlset>
